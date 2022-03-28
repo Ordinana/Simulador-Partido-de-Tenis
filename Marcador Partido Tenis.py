@@ -1,3 +1,5 @@
+print("PARTIDO DE TENIS CON RESULTADO ALEATORIO")
+
 def uniforme(): # FUNCION DE NÚMERO ALEATORIO (pseudo-aleatorio)
     global z
     a,m = 16807, 2147483647
